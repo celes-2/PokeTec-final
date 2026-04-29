@@ -1,0 +1,117 @@
+[
+    {
+        "nombre": "Mar\u00eda",
+        "puntos": 7,
+        "entrenador": 1
+    },
+    {
+        "nombre": "Andres",
+        "puntos": 5,
+        "entrenador": 4
+    },
+    {
+        "nombre": "Julio",
+        "puntos": 4,
+        "entrenador": 2
+    },
+    {
+        "nombre": "n",
+        "puntos": 4,
+        "entrenador": 1
+    },
+    {
+        "nombre": "Ale",
+        "puntos": 4,
+        "entrenador": 4
+    },
+    {
+        "nombre": "x",
+        "puntos": 3,
+        "entrenador": 2
+    },
+    {
+        "nombre": "",
+        "puntos": 3,
+        "entrenador": 2
+    },
+    {
+        "nombre": "Angelica",
+        "puntos": 3,
+        "entrenador": 3
+    },
+    {
+        "nombre": "Julio",
+        "puntos": 3,
+        "entrenador": 5
+    },
+    {
+        "nombre": "cele",
+        "puntos": 3,
+        "entrenador": 4
+    },
+    {
+        "nombre": "Angelica",
+        "puntos": 3,
+        "entrenador": 3
+    },
+    {
+        "nombre": "",
+        "puntos": 3,
+        "entrenador": 5
+    },
+    {
+        "nombre": "n",
+        "puntos": 3,
+        "entrenador": 4
+    },
+    {
+        "nombre": "vs",
+        "puntos": 3,
+        "entrenador": 3
+    },
+    {
+        "nombre": "y",
+        "puntos": 3,
+        "entrenador": 2
+    },
+    {
+        "nombre": "",
+        "puntos": 3,
+        "entrenador": 1
+    },
+    {
+        "nombre": "",
+        "puntos": 3,
+        "entrenador": 3
+    },
+    {
+        "nombre": "",
+        "puntos": 3,
+        "entrenador": 4
+    },
+    {
+        "nombre": "Celeste",
+        "puntos": 3,
+        "entrenador": 3
+    },
+    {
+        "nombre": "",
+        "puntos": 3,
+        "entrenador": 2
+    },
+    {
+        "nombre": "",
+        "puntos": 3,
+        "entrenador": 1
+    },
+    {
+        "nombre": "",
+        "puntos": 0,
+        "entrenador": 1
+    },
+    {
+        "nombre": "",
+        "puntos": 0,
+        "entrenador": 3
+    }
+]
